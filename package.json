@@ -1,0 +1,8 @@
+{
+  "name": "codemotion-demos",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "queue-async": "^1.0.7"
+  }
+}
